@@ -4,7 +4,7 @@ import { syncUserCreation } from "@/inngest/function";
 import {
   syncUserDeletion,
   syncUserUpdation,
-  syncUserDeletion,
+  syncUserCreation,
 } from "./functions";
 
 // Create an API that serves zero functions
